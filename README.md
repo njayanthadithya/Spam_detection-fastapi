@@ -1,1 +1,1 @@
-# Spam_detection-fastapi
+# Spam detection fastapi
